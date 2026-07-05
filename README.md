@@ -83,3 +83,7 @@ Data Analytics Intern - Cloudcredits Technologies
 ## 🔗 Connect
 - LinkedIn: [https://www.linkedin.com/in/ananya-mahajan-468a132b2/]
 - GitHub: [https://github.com/student-bpit/anma]
+
+- > **Note:** Raw dataset (zomato.csv) is not uploaded due to 
+> file size limit. Download it from Kaggle:
+> https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants
